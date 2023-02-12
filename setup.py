@@ -1,11 +1,14 @@
 from setuptools import find_packages, setup
 
 # python3 setup.py bdist_wheel
-# pip install dist/mypythonlib-0.1.0-py3-none-any.whl
+# pip install dist/ai_lib-0.1.0-py3-none-any.whl
+# when renaming, delete all the files change import calls, reinstall
 
 setup(
     name='ai_lib',
-    packages=find_packages(include=['ai_lib']),
+    packages=[
+        'ai_lib', 'ai_lib.nn'
+    ],
     version='0.1.0',
     description='My first Python library',
     author='Me',
