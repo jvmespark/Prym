@@ -1,4 +1,4 @@
-# AI LIB 
+# AI LIBRARY
 
 ## Benchmarks:  
 - ML: moon points, mnist,   

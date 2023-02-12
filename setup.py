@@ -1,5 +1,8 @@
 from setuptools import find_packages, setup
 
+# python3 setup.py bdist_wheel
+# pip install dist/mypythonlib-0.1.0-py3-none-any.whl
+
 setup(
     name='ai_lib',
     packages=find_packages(include=['ai_lib']),
