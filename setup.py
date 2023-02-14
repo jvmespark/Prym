@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 setup(
     name='ai_lib',
     packages=[
-        'ai_lib', 'ai_lib.nn'
+        'ai_lib', 'ai_lib.modules'
     ],
     version='0.1.0',
     description='My first Python library',
