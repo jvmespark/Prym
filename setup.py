@@ -5,14 +5,14 @@ from setuptools import find_packages, setup
 # when renaming, delete all the files change import calls, reinstall
 
 setup(
-    name='ai_lib',
+    name='Prym',
     packages=[
-        'ai_lib', 'ai_lib.nn', 'ai_lib.core_math'
+        'prym', 'prym.nn', 'prym.core_math'
     ],
     version='0.1.0',
-    description='ai_lib',
-    author='asds',
-    license='MIT',
+    description='A small and lean ai/ml library for python',
+    author='James Park',
+    license='',
     install_requires=[],
     setup_requires=['pytest-runner'],
     tests_require=['pytest==4.4.1'],

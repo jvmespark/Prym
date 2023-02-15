@@ -1,4 +1,4 @@
-# PRYM | 
+# | PRYM | 
 A small and lean in-development ai/ml library
 
 ## Benchmarks:  
