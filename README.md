@@ -1,4 +1,4 @@
-# AI LIBRARY
+# PRYM | 
 
 ## Benchmarks:  
 - ML: moon points, mnist,   
@@ -12,6 +12,7 @@ Learn from Karpathy micrograd and Hotz tinygrad
 Purpose:  
 - To learn ai from the ground up.  
 - I should also concurrently work on a real purposeful research project, dealing something in robotics.  
+- It should ideally be very small and lean, not bloated. 
 
 ## Roadmap:  
 - get parity with micrograd  
