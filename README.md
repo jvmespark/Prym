@@ -1,18 +1,13 @@
 # PRYM | 
+A small and lean in-development ai/ml library
 
 ## Benchmarks:  
 - ML: moon points, mnist,   
 - DL: cart and pole, atari, self driving replication,  
 - GAN: image generation, video generation  
 - NLP: chat bot, sentiment analysis  
-- RL:   
+- RL: TBD
 - TBD  
-
-Learn from Karpathy micrograd and Hotz tinygrad  
-Purpose:  
-- To learn ai from the ground up.  
-- I should also concurrently work on a real purposeful research project, dealing something in robotics.  
-- It should ideally be very small and lean, not bloated. 
 
 ## Roadmap:  
 - get parity with micrograd  
