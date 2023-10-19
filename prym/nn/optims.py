@@ -1,9 +1,9 @@
-from prym.mathcore.tensor import Tensor
+# convex optimizations
 
-class Conv2d():
+class ReLU():
     def __init__(self):
         print()
 
-class MLP():
+class Adam():
     def __init__(self):
         print()

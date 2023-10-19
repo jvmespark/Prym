@@ -1,0 +1,13 @@
+README.md
+setup.py
+Prym.egg-info/PKG-INFO
+Prym.egg-info/SOURCES.txt
+Prym.egg-info/dependency_links.txt
+Prym.egg-info/top_level.txt
+prym/__init__.py
+prym/core_math/__init__.py
+prym/core_math/derivatives.py
+prym/core_math/matrix.py
+prym/core_math/tensor.py
+prym/nn/__init__.py
+prym/nn/optim.py
